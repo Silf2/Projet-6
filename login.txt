@@ -1,0 +1,16 @@
+{
+    email: mythra@blondasse.com,
+    mdp: bonnasse
+}
+{
+    email: pyra@rousse.com,
+    mdp: bonnasse
+}
+{
+    email: mythra@blondasse.com,
+    mdp: bonnasse
+}
+{
+    email: pneuma@tique.com,
+    mdp: bonnasse
+}
